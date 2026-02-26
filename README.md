@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 <div align="center">
 
 # 👋 Hi, I'm Mark Koval
@@ -33,25 +32,107 @@ Full-Stack Developer • Building useful web apps & tools
 
 ## 📌 Featured Projects
 
-- 🎨 **portfolio-inna** — Motion portfolio (Next.js + animations)  
-  https://github.com/MarkKoval/portfolio-inna
+Welcome to my project showcase. Below you’ll find a summary of my main repositories, including purpose and technologies used.
 
-- 🧊 **smart-fridge** — Full-stack smart fridge app  
-  https://github.com/MarkKoval/smart-fridge
+---
 
-- 🧾 **log-trimmer** — Desktop log trimming tool (Python)  
-  https://github.com/MarkKoval/log-trimmer
+## 🧊 Smart Fridge  
+**Repository:** https://github.com/MarkKoval/smart-fridge  
 
-- 🌄 **Parallax-Project** — Parallax scrolling demo  
-  https://github.com/MarkKoval/Parallax-Project
+A full-stack smart fridge application designed to manage products, track inventory, and improve household organization.
+
+**Tech Stack:**
+- Frontend: React / TypeScript
+- Backend: Node.js / Express
+- Mobile/Desktop Integration: Capacitor
+- Database: (add if used, e.g. MongoDB / PostgreSQL)
+- Styling: CSS / Tailwind (if applicable)
+
+---
+
+## 🎨 Portfolio Inna  
+**Repository:** https://github.com/MarkKoval/portfolio-inna  
+
+Interactive motion-based portfolio showcasing architectural designs with smooth animations and modern UI.
+
+**Tech Stack:**
+- Next.js
+- TypeScript
+- GSAP (animations)
+- React
+- CSS / Tailwind
+
+---
+
+## 🌍 Own Travel Map  
+**Repository:** https://github.com/MarkKoval/owntravmap  
+
+Personal interactive travel map project for tracking and visualizing visited places.
+
+**Tech Stack:**
+- JavaScript / TypeScript
+- React (if used)
+- Map APIs (e.g., Leaflet / Google Maps — specify if applicable)
+- CSS
+
+---
+
+## 🧾 Log Trimmer  
+**Repository:** https://github.com/MarkKoval/log-trimmer  
+
+Desktop tool for trimming and processing ArduPilot logs efficiently.
+
+**Tech Stack:**
+- Python
+- File processing utilities
+- GUI framework (add if used: Tkinter / PyQt / etc.)
+
+---
+
+## 🌄 Parallax Project  
+**Repository:** https://github.com/MarkKoval/Parallax-Project  
+
+Parallax scrolling demo showcasing layered animation effects and scroll-based UI dynamics.
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🖥️ Personal Portfolio  
+**Repository:** https://github.com/MarkKoval/porfolio  
+
+Personal developer portfolio website presenting projects and skills.
+
+**Tech Stack:**
+- React (Create React App)
+- JavaScript
+- CSS
+
+---
+
+# 🛠 Core Technologies Across Projects
+
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- Python
+- HTML / CSS
+- Git / GitHub
+
+---
+
+⭐ Feel free to explore the repositories and check the code.  
+I'm always open to collaboration and improvement!
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarkKoval&show_icons=true&hide_title=true&theme=tokyonight" alt="Mark's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKoval&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=MarkKoval&theme=tokyonight" />
 </p>
 
 ---
@@ -69,6 +150,3 @@ Full-Stack Developer • Building useful web apps & tools
 If you like something here — feel free to follow or open an issue/PR.
 
 </div>
-EOF
-
-echo "✅ README.md created in $(pwd)"
